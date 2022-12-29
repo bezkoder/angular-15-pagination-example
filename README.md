@@ -33,41 +33,44 @@ Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/
 > [Angular 15 Form Validation example (Reactive Forms)](https://www.bezkoder.com/angular-15-form-validation/)
 
 Fullstack with Node:
+> [Angular 15 + Node Express + MySQL example](https://www.bezkoder.com/angular-15-node-js-express-mysql/)
 
-> [Angular + Node Express + MySQL example](https://www.bezkoder.com/angular-14-node-js-express-mysql/)
+> [Angular 15 + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-15-node-js-express-postgresql/)
 
-> [Angular + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-14-node-js-express-postgresql/)
+> [Angular 15 + Node Express + MongoDB example](https://www.bezkoder.com/angular-15-node-js-express-mongodb/)
 
-> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/mean-stack-crud-example-angular-14/)
+> [Angular 15 + Node Express: File upload example](https://www.bezkoder.com/angular-15-node-express-file-upload/)
 
-> [Angular + Node Express: File upload example](https://www.bezkoder.com/angular-14-node-express-file-upload/)
+> [Angular 15 + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-15-jwt-auth/)
 
 Fullstack with Spring Boot:
+> [Angular 15 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-15-crud/)
 
-> [Angular + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/spring-boot-angular-14-crud/)
+> [Angular 15 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-15-mysql/)
 
-> [Angular + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-14-mysql/)
+> [Angular 15 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-15-postgresql/)
 
-> [Angular + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-14-postgresql/)
+> [Angular 15 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-15-mongodb/)
 
-> [Angular + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-14-mongodb/)
+> [Angular 15 + Spring Boot: File upload example](https://www.bezkoder.com/angular-15-spring-boot-file-upload/)
 
-> [Angular + Spring Boot: File upload example](https://www.bezkoder.com/angular-14-spring-boot-file-upload/)
+> [Angular 15 + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-15-spring-boot-jwt-auth/)
 
 Fullstack with Django:
-> [Angular + Django example](https://bezkoder.com/django-angular-13-crud-rest-framework/)
+> [Angular + Django example](https://www.bezkoder.com/django-angular-13-crud-rest-framework/)
 
-Security:
-> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-14-spring-boot-jwt-auth/)
+> [Angular + Django + MySQL](https://www.bezkoder.com/django-angular-mysql/)
 
-> [Angular + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-14-jwt-auth/)
+> [Angular + Django + PostgreSQL](https://www.bezkoder.com/django-angular-postgresql/)
+
+> [Angular + Django + MongoDB](https://www.bezkoder.com/django-angular-mongodb/)
 
 Serverless with Firebase:
-> [Angular 14 Firebase CRUD with Realtime DataBase](https://www.bezkoder.com/angular-14-firebase-crud/)
+> [Angular 15 Firebase CRUD with Realtime DataBase](https://www.bezkoder.com/angular-15-firebase-crud/)
 
-> [Angular 14 Firestore CRUD example](https://www.bezkoder.com/angular-14-firestore-crud/)
+> [Angular 15 Firestore CRUD example](https://www.bezkoder.com/angular-15-firestore-crud/)
 
-> [Angular 14 Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-14-firebase-storage/)
+> [Angular 15 Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-15-firebase-storage/)
 
 Integration (run back-end & front-end on same server/port)
 > [How to integrate Angular with Node Restful Services](https://bezkoder.com/integrate-angular-12-node-js/)
